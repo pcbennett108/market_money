@@ -5,4 +5,8 @@ class Vendor < ApplicationRecord
                         :description,
                         :contact_name,
                         :contact_phone
+
+  def states_sold_in
+    markets.pluck(:state).uniq
+  end
 end
