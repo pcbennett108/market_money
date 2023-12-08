@@ -1,0 +1,69 @@
+{
+  "type": "POI",
+  "id": "HYFGgOH_CRCNdNojtTrQDQ",
+  "score": 99.9598388672,
+  "dist": 40.16466,
+  "info": "search:ta:840069005392390-US",
+  "poi": {
+      "name": "ATM at Msquared",
+      "phone": "+1 408-294-6741",
+      "categorySet": [
+          {
+              "id": 7397
+          }
+      ],
+      "categories": [
+          "cash dispenser"
+      ],
+      "classifications": [
+          {
+              "code": "CASH_DISPENSER",
+              "names": [
+                  {
+                      "nameLocale": "en-US",
+                      "name": "cash dispenser"
+                  }
+              ]
+          }
+      ]
+  },
+  "address": {
+      "streetNumber": "31",
+      "streetName": "East Santa Clara Street",
+      "municipalitySubdivision": "Downtown San Jose",
+      "municipality": "San Jose",
+      "countrySecondarySubdivision": "Santa Clara",
+      "countrySubdivision": "CA",
+      "countrySubdivisionName": "California",
+      "postalCode": "95113",
+      "extendedPostalCode": "95113-1801",
+      "countryCode": "US",
+      "country": "United States",
+      "countryCodeISO3": "USA",
+      "freeformAddress": "31 East Santa Clara Street, San Jose, CA 95113",
+      "localName": "San Jose"
+  },
+  "position": {
+      "lat": 37.336651,
+      "lon": -121.890117
+  },
+  "viewport": {
+      "topLeftPoint": {
+          "lat": 37.33755,
+          "lon": -121.89125
+      },
+      "btmRightPoint": {
+          "lat": 37.33575,
+          "lon": -121.88899
+      }
+  },
+  "entryPoints": [
+      {
+          "type": "main",
+          "position": {
+              "lat": 37.33645,
+              "lon": -121.88997
+          }
+      }
+  ]
+}

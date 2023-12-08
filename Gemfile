@@ -36,6 +36,8 @@ gem "bootsnap", require: false
 # gem "rack-cors"
 
 gem "jsonapi-serializer"
+gem "faraday"
+
 
 
 group :test do
@@ -51,6 +53,9 @@ group :development, :test do
   gem "factory_bot_rails"
   gem "faker"
   gem "shoulda-matchers"
+  gem "webmock"
+  gem "vcr"
+
 
 end
 
